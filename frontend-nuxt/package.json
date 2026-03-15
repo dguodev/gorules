@@ -1,0 +1,25 @@
+{
+  "name": "frontend-nuxt",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@ant-design/icons": "^6.1.0",
+    "@gorules/jdm-editor": "^1.51.4",
+    "@vitejs/plugin-react": "^4.7.0",
+    "antd": "^6.3.2",
+    "nuxt": "^4.4.2",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
+    "veaury": "^2.6.3",
+    "vite": "^5.4.21",
+    "vue": "^3.5.30",
+    "vue-router": "^5.0.3"
+  }
+}
